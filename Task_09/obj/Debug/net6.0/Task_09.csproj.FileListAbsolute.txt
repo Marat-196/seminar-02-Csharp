@@ -1,0 +1,15 @@
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\bin\Debug\net6.0\Task_09.exe
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\bin\Debug\net6.0\Task_09.deps.json
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\bin\Debug\net6.0\Task_09.runtimeconfig.json
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\bin\Debug\net6.0\Task_09.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\bin\Debug\net6.0\Task_09.pdb
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.csproj.AssemblyReference.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.AssemblyInfoInputs.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.AssemblyInfo.cs
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.csproj.CoreCompileInputs.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\refint\Task_09.dll
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.pdb
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\Task_09.genruntimeconfig.cache
+C:\Users\mjumataev\Documents\Личное\GeekBrains\3 Введение в программирование C#\Seminar 02\Task_09\obj\Debug\net6.0\ref\Task_09.dll
